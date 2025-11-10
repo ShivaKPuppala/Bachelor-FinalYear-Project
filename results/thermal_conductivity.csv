@@ -1,0 +1,9 @@
+Fluid,Thermal_Conductivity_W_per_mK
+CC PURE,0.121
+CC + 0.1g MSA/100ml,0.26
+CC + 0.5g MSA/100ml,0.245
+CC + 1.0g MSA/100ml,0.213
+SF PURE,0.168
+SF + 0.1g MSA/100ml,0.232
+SF + 0.25g MSA/100ml,0.241
+SF + 0.5g MSA/100ml,0.249
