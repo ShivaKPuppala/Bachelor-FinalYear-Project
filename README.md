@@ -2,7 +2,7 @@
   <img src="A_banner_image_for_a_B.Tech_Final_Year_Project_tit.png" width="800" alt="Bachelor Final Year Project Banner">
 </p>
 
-# 🎓 Echo Mcahining -Bachelor-FinalYear-Project  
+# 🎓 Echo Machining -Bachelor-FinalYear-Project  
 ### *EcoMachining – Performance Assessment of Additive-Based Vegetable Oils as Cutting Fluids in Machining*
 
 > **B.Tech Final Year Project (2017)**  
@@ -159,7 +159,7 @@ See [`references.md`](references.md) for full academic citations.
 ---
 
 ## 🪴 License
-Licensed under the **MIT License** — free to reuse and modify with proper credit.
+Contact us to reuse and modify with proper credit.
 
 ---
 
